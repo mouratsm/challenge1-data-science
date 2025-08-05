@@ -25,6 +25,22 @@ Este projeto tem como objetivo analisar e comparar o desempenho de quatro lojas 
 - Pandas
 - Matplotlib
 - Jupyter Notebook ou Google Colab
+## ▶️ Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/mouratsm/challenge1-data-science.git
+cd challenge1-data-science
+Instale as dependências:
+
+bash
+Copiar
+Editar
+pip install pandas matplotlib seaborn
+Execute o notebook:
+
+Abra AluraStoreBr_(1).ipynb em um ambiente Jupyter ou Colab.
+
 
 
 
